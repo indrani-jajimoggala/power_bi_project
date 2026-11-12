@@ -202,5 +202,4 @@ This project demonstrates the ability to take sales data and build a **business-
 **Project Type:** Personal / Portfolio Project
 **Domain:** Sales & Business Intelligence
 **Tool:** Microsoft Power BI
-<img width="1920" height="1080" alt="Screenshot 2026-05-06 120215" src="https://github.com/user-attachments/assets/64353ac4-2a94-4845-adcd-5715000c8934" />
 <img width="1281" height="722" alt="Screenshot 2026-09-23 145050" src="https://github.com/user-attachments/assets/e30511ac-2ff2-409c-a907-4d5e10f24017" />
